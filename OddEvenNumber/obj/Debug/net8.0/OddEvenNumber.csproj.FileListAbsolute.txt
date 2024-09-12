@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\PullRequest\OddEvenNumber\bin\Debug\net8.0\OddEvenNumber.exe
+C:\Users\DELL\Desktop\PullRequest\OddEvenNumber\bin\Debug\net8.0\OddEvenNumber.deps.json
+C:\Users\DELL\Desktop\PullRequest\OddEvenNumber\bin\Debug\net8.0\OddEvenNumber.runtimeconfig.json
+C:\Users\DELL\Desktop\PullRequest\OddEvenNumber\bin\Debug\net8.0\OddEvenNumber.dll
+C:\Users\DELL\Desktop\PullRequest\OddEvenNumber\bin\Debug\net8.0\OddEvenNumber.pdb
+C:\Users\DELL\Desktop\PullRequest\OddEvenNumber\obj\Debug\net8.0\OddEvenNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\PullRequest\OddEvenNumber\obj\Debug\net8.0\OddEvenNumber.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\PullRequest\OddEvenNumber\obj\Debug\net8.0\OddEvenNumber.AssemblyInfo.cs
+C:\Users\DELL\Desktop\PullRequest\OddEvenNumber\obj\Debug\net8.0\OddEvenNumber.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\PullRequest\OddEvenNumber\obj\Debug\net8.0\OddEvenNumber.sourcelink.json
+C:\Users\DELL\Desktop\PullRequest\OddEvenNumber\obj\Debug\net8.0\OddEvenNumber.dll
+C:\Users\DELL\Desktop\PullRequest\OddEvenNumber\obj\Debug\net8.0\refint\OddEvenNumber.dll
+C:\Users\DELL\Desktop\PullRequest\OddEvenNumber\obj\Debug\net8.0\OddEvenNumber.pdb
+C:\Users\DELL\Desktop\PullRequest\OddEvenNumber\obj\Debug\net8.0\OddEvenNumber.genruntimeconfig.cache
+C:\Users\DELL\Desktop\PullRequest\OddEvenNumber\obj\Debug\net8.0\ref\OddEvenNumber.dll
